@@ -11,6 +11,6 @@ kernelspec:
   name: python3
 ---
 
-# Bio am WWG
+# Chemie am WWG
 
-Unterrichtsplanung, -inhalte und -materialien für das Fach Biologie am Wim-Wenders-Gymnasium Düsseldorf.
+Unterrichtsplanung, -inhalte und -materialien für das Fach Chemie am Wim-Wenders-Gymnasium Düsseldorf.

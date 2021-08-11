@@ -11,6 +11,4 @@ kernelspec:
   name: python3
 ---
 
-# Bio am WWG
-
-Unterrichtsplanung, -inhalte und -materialien für das Fach Biologie am Wim-Wenders-Gymnasium Düsseldorf.
+# 1004_Risiken und Nutzen bei der Verwendung saurer und alkalischer Lösungen

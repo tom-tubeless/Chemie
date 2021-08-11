@@ -11,6 +11,4 @@ kernelspec:
   name: python3
 ---
 
-# Bio am WWG
-
-Unterrichtsplanung, -inhalte und -materialien für das Fach Biologie am Wim-Wenders-Gymnasium Düsseldorf.
+# 0904_Gase, wichtige Ausgangsstoffe für Industrierohstoffe
