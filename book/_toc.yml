@@ -4,8 +4,15 @@
 format: jb-book
 root: docs/000_intro
 options:
-  numbered: 2
+  numbered: false
 chapters:
   - file: docs/001_uebersicht
-  # sections:
-  #   - file: docs/101_hello_world
+  - file: docs/0902_Energie_aus_chemischen_Reaktionen
+  - file: docs/0903_Gase_in_unserer_Atmosphaere
+  - file: docs/0904_Gase_als_wichtige_Ausgangsstoffe_fuer_Industrierohstoffe
+  - file: docs/1001_Wasser_ist_mehr_als_ein_Loesemittel
+  - file: docs/1002_Saure_und_alkalische_Loesungen_in_unserer_Umwelt
+  - file: docs/1003_Reaktionen_von_sauren_mit_alkalischen_Loesungen
+  - file: docs/1004_Risiken_und_Nutzen_bei_der_Verwendung_saurer_und_alkalischer_Loesungen
+  - file: docs/1005_Alkane_und_Alkanole_in_Natur_und_Technik
+  - file: docs/1006_Vielseitige_Kunststoffe
