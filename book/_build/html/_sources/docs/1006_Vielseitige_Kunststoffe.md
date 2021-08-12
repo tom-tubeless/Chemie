@@ -13,6 +13,8 @@ kernelspec:
 
 # 1006_Vielseitige Kunststoffe
 
+**4h**
+
 ## Leitfragen
 
 - Warum werden bestimmte Kunststoffe im Alltag verwendet?

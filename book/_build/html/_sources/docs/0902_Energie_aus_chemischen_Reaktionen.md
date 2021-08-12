@@ -13,6 +13,8 @@ kernelspec:
 
 # 0902_Energie aus chemischen Reaktionen
 
+**16h**
+
 ## Leitfragen
 
 - Wie lässt sich die Übertragung von Elektronen nutzbar machen?

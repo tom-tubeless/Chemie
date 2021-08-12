@@ -12,3 +12,5 @@ kernelspec:
 ---
 
 # 1001_Wasser, mehr als ein Lösemittel
+
+**8h**
